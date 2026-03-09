@@ -1,1 +1,23 @@
-Some Bugs Fixed 👍 
+📋 GitHub & Discord Güncelleme Metni
+📦 Hell No Spoofer | Version 8.0 - "The Clean Deployment" Update
+Yenilikler ve Düzeltmeler:
+
+🚀 Akıllı Kurulum Sistemi: Program artık tek bir .exe ile çalışır. İlk açılışta kendisini otomatik olarak C:\Program Files\Hell No Spoofer dizinine kurar ve masaüstüne şık bir kısayol bırakır.
+
+📂 AppData Entegrasyonu: Tüm kullanıcı ayarları ve log kayıtları artık AppData\Roaming\Hell No Spoofer klasöründe güvenli bir şekilde saklanır.
+
+🔧 Gelişmiş Updater (v2.1): * İndirme sırasında yaşanan donma ve "Sıfıra Bölme" hataları giderildi.
+
+Yüzdelik ilerleme çubuğu ve anlık indirme hızı (MB/s) göstergesi eklendi.
+
+Eski sürümü silerken yaşanan "Dosya Kullanımda" hatası, döngüsel silme algoritmasıyla %100 çözüldü.
+
+🛡️ Güvenlik & Stabilite: * Program Files üzerinden çalışma sayesinde Windows Defender ile daha uyumlu hale getirildi.
+
+Başarılı ve başarısız giriş denemeleri artık yerel log dosyasına anlık olarak kaydediliyor.
+
+🎨 Arayüz İyileştirmeleri: * Sürüm numarası 8.0 olarak güncellendi.
+
+Tüm ekranlara "Developed by t0runn" imzası eklendi.
+
+⚠️ Not: Eski sürümü masaüstünden silebilirsiniz. Yeni sürüm otomatik olarak kısayol üzerinden çalışacaktır.
